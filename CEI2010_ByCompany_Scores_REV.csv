@@ -1,0 +1,591 @@
+Employer,City,State,CEI Rating
+3M Co.,St. Paul,MN,100
+A.T. Kearney Inc.,Chicago,IL,100
+AAA Northern California Nevada and Utah,San Francisco,CA,100
+Abbott Laboratories,Abbott Park,IL,80
+Abercrombie & Fitch Co.,New Albany,OH,100
+Accenture Ltd.,New York,NY,100
+Acer Inc.,Irvine,CA,50
+Adecco North America LLC,Melville,NY,85
+Adobe Systems Inc.,San Jose,CA,95
+Advanced Micro Devices Inc.,Sunnyvale,CA,75
+AEGON USA Inc.,Cedar Rapids,IA,40
+Aetna Inc.,Hartford,CT,100
+Affiliated Computer Services Inc.,Dallas,TX,60
+Agilent Technologies Inc.,Santa Clara,CA,75
+Ahold USA Inc.,Quincy,MA,78
+Air Products & Chemicals Inc.,Allentown,PA,75
+Akin Gump  Strauss Hauer & Feld LLP,Washington DC,DC,100
+Alaska Air Group Inc.,Seattle,WA,100
+Alcatel-Lucent,Murray Hill,NJ,100
+Alcoa Inc.,New York,NY,100
+Allegheny Energy Inc.,Greensburg,PA,65
+Alliant Energy Corp.,Madison,WI,80
+Alliant Techsystems Inc.,Edina,MN,65
+Allianz Life Insurance Co. of North America,Minneapolis,MN,100
+Allstate Corp. The,Northbrook,IL,100
+Alston & Bird LLP,Atlanta,GA,100
+Amazon.com Inc.,Seattle,WA,95
+AMC Entertainment Inc.,Kansas City,MO,60
+Ameren Corp.,St. Louis,MO,70
+American Express Co.,New York,NY,100
+American Family Insurance Group,Madison,WI,88
+Ameriprise Financial Inc.,Minneapolis,MN,100
+Amgen Inc.,Thousand Oaks,CA,70
+AMR Corp. (American Airlines),Fort Worth,TX,100
+AmTrust Bank,Cleveland,OH,83
+Andrews Kurth LLP,Houston,TX,70
+Anheuser-Busch Companies Inc.,St. Louis,MO,100
+Aon Corp.,Chicago,IL,100
+Apple Inc.,Cupertino,CA,100
+Applied Materials Inc.,Santa Clara,CA,100
+Aramark Corp.,Philadelphia,PA,75
+Archer Daniels Midland Co.,Decatur,IL,40
+Arent Fox LLP,Washington DC,DC,100
+Arnold & Porter LLP,Washington DC,DC,100
+AstraZeneca PLC,Wilmington,DE,80
+AT&T Inc.,Dallas,TX,100
+Austin Radiological Assn.,Austin,TX,53
+Automatic Data Processing Inc.,Roseland,NJ,100
+AutoZone Inc.,Memphis,TN,65
+Avaya Inc.,Basking Ridge,NJ,85
+Avis Budget Group Inc.,Parsippany,NJ,80
+Avnet Inc.,Phoenix,AZ,90
+Avon Products Inc.,New York,NY,100
+Bain & Co. Inc. (& Bridgespan Group Inc.),Boston,MA,100
+Baker Botts LLP,Houston,TX,100
+Baker & Daniels LLP,Indianapolis,IN,100
+Baker & McKenzie,Chicago,IL,100
+Baker Donelson Bearman Caldwell & Berkowitz PC,Memphis,TN,70
+Baldor Electric Co.,Fort Smith,AR,20
+Ball Corp.,Broomfield,CO,43
+Ballard Spahr LLP,Philadelphia,PA,100
+Bank of America Corp.,Charlotte,NC,100
+Bank of New York Mellon Corp. The,New York,NY,100
+Barclays Capital,New York,NY,95
+Barnes & Noble Inc.,New York,NY,100
+BASF Corp.,Florham Park,NJ,100
+Bausch & Lomb Inc.,Rochester,NY,100
+Baxter International Inc.,Deerfield,IL,80
+Bayer Corp.,Pittsburgh,PA,100
+BB&T Corp.,Winston-Salem,NC,73
+Best Buy Co. Inc.,Richfield,MN,100
+Bingham McCutchen LLP,Boston,MA,100
+Black & Decker Corp. The,Towson,MD,50
+Blue Cross Blue Shield of Florida Inc.,Jacksonville,FL,100
+Blue Cross Blue Shield of North Carolina,Durham,NC,90
+BMC Software Inc.,Houston,TX,100
+BNSF Railway Co.,Fort Worth,TX,20
+Boehringer Ingelheim USA Corp.,Ridgefield,CT,100
+Boeing Co.,Chicago,IL,100
+Booz Allen Hamilton Inc.,McLean,VA,100
+Borders Group Inc.,Ann Arbor,MI,60
+Boston Consulting Group,Boston,MA,100
+BP America Inc.,Houston,TX,100
+Bridgestone Americas Holding Inc.,Nashville,TN,80
+Bright Horizons Family Solutions Inc.,Watertown,MA,100
+Brinker International Inc.,Dallas,TX,80
+Bristol-Myers Squibb Co.,New York,NY,100
+Brown Rudnick LLP,Boston,MA,100
+Brown-Forman Corp.,Louisville,KY,100
+Bryan Cave LLP,St. Louis,MO,100
+Burger King Corp.,Miami,FL,68
+C&S Wholesale Grocers Inc.,Keene,NH,40
+Cadwalader Wickersham & Taft LLP,New York,NY,95
+Calpine Corp.,San Jose,CA,85
+Campbell Soup Co.,Camden,NJ,100
+Canadian Imperial Bank of Commerce,New York,NY,100
+Capgemini U.S.,New York,NY,60
+Capital One Financial Corp.,McLean,VA,100
+Cardinal Health Inc.,Dublin,OH,100
+Cargill Inc.,Wayzata,MN,100
+Carlson Companies Inc.,Minnetonka,MN,100
+Carlton Fields PA,Tampa,FL,100
+Carmax Inc.,Richmond,VA,100
+Caterpillar Inc.,Peoria,IL,75
+CDW Corp.,Vernon Hills,IL,88
+Cerner Corp.,Kansas City,MO,73
+CH2M HILL Companies Ltd.,Englewood,CO,85
+Chadbourne & Parke LLP,New York,NY,93
+Chamberlin Edmonds & Associates Inc.,Atlanta,GA,53
+Chapman & Cutler LLP,Chicago,IL,100
+Charles Schwab Corp. The,San Francisco,CA,100
+Chartis,New York,NY,85
+Chevron Corp.,San Ramon,CA,100
+Choice Hotels International Inc.,Silver Spring,MD,90
+Chrysler LLC,Auburn Hills,MI,100
+Chubb Corp.,Warren,NJ,100
+CIGNA Corp.,Philadelphia,PA,95
+Cisco Systems Inc.,San Jose,CA,100
+Citigroup Inc.,New York,NY,100
+Clear Channel Communications Inc.,San Antonio,TX,100
+Cleary Gottlieb Steen & Hamilton LLP,New York,NY,100
+Clifford Chance US LLP,New York,NY,100
+Clorox Co.,Oakland,CA,100
+CNA Insurance,Chicago,IL,100
+Coca-Cola Co. The,Atlanta,GA,100
+Coca-Cola Enterprises Inc.,Atlanta,GA,100
+Colgate-Palmolive Co.,New York,NY,95
+Comcast Corp.,Philadelphia,PA,85
+Comerica Inc.,Dallas,TX,80
+Compass Group USA Inc.,Charlotte,NC,50
+Computer Sciences Corp.,Falls Church,VA,85
+Compuware Corp.,Detroit,MI,93
+ConAgra Foods Inc.,Omaha,NE,90
+ConocoPhillips,Houston,TX,70
+Consolidated Edison Co.,New York,NY,95
+Constellation Energy Group Inc.,Baltimore,MD,100
+Continental Airlines Inc.,Houston,TX,100
+Convergys Corp.,Cincinnati,OH,80
+Cooper Tire & Rubber Co.,Findlay,OH,33
+Corbis Corp.,Seattle,WA,80
+Corning Inc.,Corning,NY,100
+Costco Wholesale Corp.,Issaquah,WA,70
+Covington & Burling LLP,Washington DC,DC,100
+Cox Enterprises Inc.,Atlanta,GA,95
+Cracker Barrel Old Country Store Inc.,Lebanon,TN,15
+Cravath Swaine & Moore LLP,New York,NY,100
+Credit Suisse USA Inc.,New York,NY,95
+Crowell & Moring LLP,Washington DC,DC,95
+CSX Corp.,Jacksonville,FL,75
+Cummins Inc.,Columbus,IN,100
+CUNA Mutual Insurance Group,Madison,WI,65
+CVS Caremark Corp.,Woonsocket,RI,90
+Dana Holding Corp.,Toledo,OH,80
+Darden Restaurants Inc.,Orlando,FL,80
+Davis Wright Tremaine LLP,Seattle,WA,95
+Davis Polk & Wardwell LLP,New York,NY,100
+Dean Foods Co.,Dallas,TX,73
+Debevoise & Plimpton LLP,New York,NY,100
+Deere & Co.,Moline,IL,80
+Dell Inc.,Round Rock,TX,100
+Deloitte LLP,New York,NY,100
+Delphi Corp.,Troy,MI,45
+Delta Air Lines Inc.,Atlanta,GA,45
+Deutsche Bank,New York,NY,100
+Dewey & LeBoeuf LLP,New York,NY,100
+Diageo North America,Norwalk,CT,100
+Dickstein Shapiro LLP,Washington DC,DC,93
+Discover Financial Services,Riverwoods,IL,100
+DLA Piper,Baltimore,MD,100
+Dollar Thrifty Automotive Group Inc.,Tulsa,OK,93
+Dominion Resources Inc.,Richmond,VA,95
+Domino's Pizza Inc. ,Ann Arbor,MI,70
+Dorsey & Whitney LLP,Minneapolis,MN,100
+Dow Chemical Co. The,Midland,MI,100
+Drinker Biddle & Reath LLP,Philadelphia,PA,95
+DTE Energy Co.,Detroit,MI,75
+Duane Morris LLP,Philadelphia,PA,100
+Duke Energy Corp.,Charlotte,NC,100
+Dun & Bradstreet Corp. The,Short Hills,NJ,100
+Dykema Gossett PLLC,Detroit,MI,80
+E*TRADE Financial Corp.,New York,NY,100
+E. I. du Pont de Nemours and Co. (DuPont),Wilmington,DE,100
+EarthLink Inc.,Atlanta,GA,93
+Eastman Kodak Co.,Rochester,NY,100
+eBay Inc.,San Jose,CA,100
+Ecolab Inc.,St. Paul,MN,100
+Edison International,Rosemead,CA,100
+Edwards Angell Palmer & Dodge LLP,Boston,MA,100
+Electronic Arts Inc.,Redwood City,CA,100
+Eli Lilly & Co.,Indianapolis,IN,100
+EMC Corp.,Hopkinton,MA,95
+Emerson Electric Co.,St. Louis,MO,45
+Entergy Corp.,New Orleans,LA,95
+Enterprise Rent-A-Car Co.,St. Louis,MO,80
+Epstein Becker & Green PC,New York,NY,80
+Ernst & Young LLP,New York,NY,100
+Estee Lauder Companies,New York,NY,100
+Esurance Inc.,San Francisco,CA,100
+Exelon Corp.,Chicago,IL,95
+Expedia Inc.,Bellevue,WA,65
+Exxon Mobil Corp.,Irving,TX,40
+Faegre & Benson LLP,Minneapolis,MN,100
+Federal Home Loan Mortgage Corp. (Freddie Mac),McLean,VA,100
+Federal National Mortgage Association (Fannie Mae),Washington DC,DC,100
+FedEx Corp.,Memphis,TN,70
+Fenwick & West LLP,Mountain View,CA,100
+Fifth Third Bancorp,Cincinnati,OH,80
+Finnegan Henderson Farabow Garrett & Dunner LLP,Washington DC,DC,100
+Fish & Richardson PC,Boston,MA,95
+Foley & Lardner LLP,Milwaukee,WI,100
+Foley Hoag LLP,Boston,MA,100
+Food Lion LLC,Salisbury,NC,100
+Ford Motor Co.,Dearborn,MI,50
+Franklin Resources Inc.,San Mateo,CA,50
+Freescale Semiconductor Inc.,Austin,TX,100
+Fried Frank Haris Shriver & Jacobson LLP,New York,NY,100
+Frost Brown Todd LLC,Cincinnati,OH,85
+Fulbright & Jaworski LLP,Houston,TX,100
+GameStop Corp.,Grapevine,TX,100
+Gannett Co. Inc.,McLean,VA,65
+Gap Inc.,San Francisco,CA,100
+Gastronomy Inc.,Salt Lake City,UT,63
+Genentech Inc.,South San Francisco,CA,100
+General Dynamics Corp.,Falls Church,VA,40
+General Electric Co.,Fairfield,CT,80
+General Mills Inc.,Minneapolis,MN,100
+General Motors Corp.,Detroit,MI,100
+Gibson Dunn & Crutcher LLP,Los Angeles,CA,100
+GlaxoSmithKline plc,Research Triangle Park,NC,100
+Goldman Sachs Group Inc. The,New York,NY,100
+Goodwin Procter LLP,Boston,MA,100
+Google Inc.,Mountain View,CA,100
+Gordon & Rees LLP,San Francisco,CA,95
+Greenberg Traurig LLP,Miami,FL,83
+Group Health Cooperative,Seattle,WA,88
+Group Health Permanente,Seattle,WA,85
+H&R Block Inc.,Kansas City,MO,66
+H.E. Butt Grocery Co.,San Antonio,TX,75
+H.J. Heinz Co.,Pittsburgh,PA,68
+Hain Celestial Group Inc.,Melville,NY,70
+Hallmark Cards Inc.,Kansas City,MO,75
+Hannaford Brothers,Portland,ME,93
+Hanover Direct Inc.,Weehawken,NJ,75
+Harrah’s Entertainment Inc.,Las Vegas,NV,100
+Harris Bancorp Inc.,Chicago,IL,100
+Harris Interactive Inc.,Rochester,NY,93
+Harry & David Holdings Inc.,Medford,OR,83
+Hartford Financial Services Group Inc. The,Hartford,CT,100
+Harvard Pilgrim Health Care Inc.,Wellesley,MA,93
+Hasbro Inc.,Pawtucket,RI,90
+Haynes and Boone LLP,Dallas,TX,100
+Health Care Service Corp.,Chicago,IL,100
+Health Net Inc.,Woodland Hills,CA,93
+Herman Miller Inc.,Zeeland,MI,100
+Herrick Feinstein LLP,New York,NY,95
+Hershey Co. The,Hershey,PA,70
+Hertz Global Holdings Inc.,Park Ridge,NJ,70
+Hewitt Associates,Lincolnshire,IL,100
+Hewlett-Packard Co.,Palo Alto,CA,100
+Hilton Hotels Corp.,Beverly Hills,CA,90
+Hinshaw & Culbertson LLP,Chicago,IL,100
+Hogan & Hartson LLP,Washington DC,DC,100
+Holland & Hart LLP,Denver,CO,100
+Holland & Knight LLP,Washington DC,DC,100
+Holme Roberts & Owen LLP,Denver,CO,100
+Home Depot Inc. The,Atlanta,GA,85
+Honeywell International Inc.,Morristown,NJ,100
+Hospira Inc.,Lake Forest,IL,100
+Host Hotels & Resorts Inc.,Bethesda,MD,45
+Howard & Howard Attorneys PLLC,Kalamazoo,MI,48
+Howrey LLP,Washington DC,DC,100
+HSBC - North America,Mettawa,IL,100
+Humana Inc.,Louisville,KY,45
+Huntington Bancshares Inc.,Columbus,OH,75
+Hunton & Williams LLP,Richmond,VA,100
+Husch Blackwell Sanders LLP,Kansas City,MO,100
+Hyatt Hotels Corp.,Chicago,IL,100
+Illinois Tool Works Inc.,Glenview,IL,73
+Imation Corp.,Oakdale,MN,65
+ING North America Insurance Corp.,Atlanta,GA,100
+Intel Corp.,Santa Clara,CA,100
+InterContinental Hotels Group Americas,Atlanta,GA,85
+International Business Machines Corp. (IBM),Armonk,NY,100
+International Paper Co.,Memphis,TN,65
+Interpublic Group of Companies Inc.,New York,NY,100
+Intuit Inc.,Mountain View,CA,100
+ITT Industries Inc.,White Plains,NY,70
+J.C. Penney Co. Inc.,Plano,TX,95
+J.P. Morgan Chase & Co.,New York,NY,100
+Jacobs Engineering Group Inc.,Pasadena,CA,45
+Jenner & Block LLP,Chicago,IL,100
+JetBlue Airways Corp.,Forest Hills,NY,80
+John Hancock Financial Services Inc.,Boston,MA,100
+Johnson & Johnson,New Brunswick,NJ,100
+Jones Apparel Group Inc.,New York,NY,45
+Kaiser Permanente,Oakland,CA,100
+Katten Muchin Rosenman LLP,Chicago,IL,100
+Kaye Scholer LLP,New York,NY,100
+KB Home,Los Angeles,CA,70
+Keane Inc.,Boston,MA,50
+Kelley Drye & Warren LLP,New York,NY,95
+Kellogg Co.,Battle Creek,MI,65
+Kenneth Cole Productions Inc.,New York,NY,100
+KeyCorp,Cleveland,OH,100
+Kilpatrick Stockton LLP,Atlanta,GA,95
+Kimberly-Clark Corp.,Irving,TX,100
+Kimpton Hotel & Restaurant Group Inc.,San Francisco,CA,100
+King & Spalding LLP,Atlanta,GA,95
+Kirkland & Ellis LLP,Chicago,IL,100
+KLA-Tencor Corp.,Milpitas,CA,58
+KPMG LLP,New York,NY,100
+Kraft Foods Inc.,Northfield,IL,95
+Kramer Levin Naftalis & Frankel LLP,New York,NY,100
+Kroger Co. The,Cincinnati,OH,75
+Kutak Rock LLP,Omaha,NE,70
+L.L. Bean Inc.,Freeport,ME,78
+Laclede Group Inc. The,St. Louis,MO,48
+Land O'Lakes Inc.,Arden Hills,MN,100
+Latham & Watkins LLP,New York,NY,100
+Lear Corp.,Southfield,MI,20
+Levi Strauss & Co.,San Francisco,CA,100
+LexisNexis Group,Miamisburg,OH,100
+Lexmark International Inc.,Lexington,KY,100
+Limited Brands Inc.,Columbus,OH,100
+Lincoln National Corp.,Radnor,PA,95
+Littler Mendelson PC,San Francisco,CA,100
+Live Nation Inc.,Beverly Hills,CA,100
+Liz Claiborne Inc.,New York,NY,93
+Locke Lord Bissell & Liddell LLP,Chicago,IL,73
+Lockheed Martin Corp.,Bethesda,MD,100
+Loews Corp.,New York,NY,45
+Luce Forward Hamilton & Scripps LLP,San Diego,CA,100
+Macy's Inc.,Cincinnati,OH,100
+Manatt Phelps & Phillips LLP,Los Angeles,CA,100
+Marriott International Inc.,Bethesda,MD,90
+Mars Inc.,Mt. Olive,NJ,73
+Marsh & McLennan Companies Inc.,New York,NY,100
+Massachusetts Mutual Life Insurance Co.,Springfield,MA,100
+MasterCard Inc.,Purchase,NY,100
+Mattel Inc.,El Segundo,CA,95
+Mayer Brown LLP,Chicago,IL,100
+McAfee Inc.,Santa Clara,CA,53
+McCarter & English LLP,Newark,NJ,100
+McDermott Will & Emery LLP,Chicago,IL,100
+McDonald's Corp.,Oak Brook,IL,85
+McGraw-Hill Companies Inc. The,New York,NY,80
+McGuireWoods LLP,Richmond,VA,95
+McKenna Long & Aldridge LLP,Atlanta,GA,83
+McKesson Corp.,San Francisco,CA,83
+McKinsey & Co. Inc.,New York,NY,100
+MeadWestvaco Corp.,Glen Allen,VA,80
+Medtronic Inc.,Minneapolis,MN,100
+Meijer Inc.,Grand Rapids,MI,20
+Men's Wearhouse Inc. The,Houston,TX,50
+Merck & Co. Inc.,Whitehouse Station,NJ,100
+MetLife Inc.,New York,NY,100
+MGM Mirage,Las Vegas,NV,70
+Microsoft Corp.,Redmond,WA,100
+Milbank Tweed Hadley & McCloy LLP,New York,NY,100
+MillerCoors LLC,Chicago,IL,100
+Mintz Levin Cohn Ferris Glovsky & Popeo PC,Boston,MA,100
+Mirant Corp.,Atlanta,GA,45
+Mitchell Gold + Bob Williams,Taylorsville,NC,100
+Mohawk Industries Inc.,Calhoun,GA,50
+Monsanto Co.,St. Louis,MO,100
+Moody's Corp.,New York,NY,90
+Morgan Lewis & Bockius LLP,Philadelphia,PA,100
+Morgan Stanley,New York,NY,100
+Morningstar Inc.,Chicago,IL,95
+Morrison & Foerster LLP,San Francisco,CA,100
+Motorola Inc.,Schaumburg,IL,100
+Mutual of Omaha Insurance,Omaha,NE,80
+National Grid USA,Brooklyn,NY,80
+Nationwide,Columbus,OH,100
+Navigant Consulting Inc.,Chicago,IL,100
+NCR Corp.,Dayton,OH,100
+Nelson Mullins Riley & Scarborough LLP,Columbia,SC,70
+Nestle Purina PetCare Co.,St. Louis,MO,75
+NetApp Inc.,Sunnyvale,CA,100
+New York Life Insurance Co.,New York,NY,100
+New York Times Co.,New York,NY,100
+Newell Rubbermaid Inc.,Atlanta,GA,100
+Nielsen Co. The,Schaumburg,IL,100
+Nike Inc.,Beaverton,OR,100
+Nissan North America Inc.,Franklin,TN,50
+Nixon Peabody LLP,New York,NY,100
+Nokia Corp.,Irving,TX,50
+Nordstrom Inc.,Seattle,WA,100
+Norfolk Southern Corp.,Norfolk,VA,58
+Nortel Networks Corp.,Richardson,TX,85
+Northeast Utilities,Berlin,CT,65
+Northern Trust Corp.,Chicago,IL,100
+Northrop Grumman Corp.,Los Angeles,CA,100
+Novartis Pharmaceuticals Corp.,East Hanover,NJ,100
+NV Energy Inc.,Las Vegas,NV,70
+Office Depot Inc.,Boca Raton,FL,45
+OfficeMax Inc.,Naperville,IL,95
+O'Melveny & Myers LLP,Washington DC,DC,100
+Omnicom Group,New York,NY,100
+Oracle Corp.,Redwood City,CA,100
+Orbitz Worldwide Inc.,Chicago,IL,100
+Orrick Herrington & Sutcliffe LLP,San Francisco,CA,100
+Owens & Minor Inc.,Mechanicsville,VA,50
+Owens Corning,Toledo,OH,100
+Pacific Life Insurance Co.,Newport Beach,CA,100
+PacifiCorp,Portland,OR,100
+Palm Management Corp.,Washington DC,DC,78
+Patterson Belknap Webb & Tyler LLP,New York,NY,100
+Paul Hastings Janofsky & Walker LLP,Los Angeles,CA,100
+Paul Weiss Rifkind Wharton & Garrison LLP,New York,NY,100
+Pearson Inc.,New York,NY,75
+Pepco Holdings Inc.,Washington DC,DC,80
+Pepper Hamilton LLP,Philadelphia,PA,100
+Pepsi Bottling Group Inc. The,Somers,NY,100
+PepsiAmericas Inc.,Minneapolis,MN,100
+PepsiCo Inc.,Purchase,NY,100
+Perkins + Will Inc.,Chicago,IL,100
+Perkins Coie LLP,Seattle,WA,100
+Perot Systems Corp.,Plano,TX,53
+Pfizer Inc.,New York,NY,100
+PG&E Corp.,San Francisco,CA,100
+Pillsbury Winthrop Shaw Pittman LLP,New York,NY,100
+Pinnacle West Capital,Phoenix,AZ,45
+Pitney Bowes Inc.,Stamford,CT,70
+PNC Financial Services Group Inc. The,Pittsburgh,PA,85
+PNM Resources Inc.,Albuquerque,NM,60
+Polaroid Corp.,Waltham,MA,60
+Polsinelli Shughart PC,Kansas City,MO,95
+PPG Industries Inc.,Pittsburgh,PA,45
+PPL Corp.,Allentown,PA,55
+Praxair Inc.,Danbury,CT,45
+PricewaterhouseCoopers LLP,New York,NY,100
+Principal Financial Group,Des Moines,IA,95
+Procter & Gamble Co.,Cincinnati,OH,100
+Progress Energy Inc.,Raleigh,NC,68
+Progressive Corp. The,Mayfield Village,OH,100
+Proskauer Rose LLP,New York,NY,100
+Prudential Financial Inc.,Newark,NJ,100
+Public Service Enterprise Group,Newark,NJ,80
+QUALCOMM Inc.,San Diego,CA,100
+Quarles & Brady LLP,Milwaukee,WI,100
+Quest Diagnostics Inc.,Madison,NJ,85
+Qwest Communications International Inc.,Denver,CO,85
+R.R. Donnelley & Sons Co.,Chicago,IL,55
+RadioShack Corp.,Fort Worth,TX,40
+Raymond James Financial Inc.,St. Petersburg,FL,100
+Raytheon Co.,Waltham,MA,100
+RBC Wealth Management,Minneapolis,MN,100
+Realogy Corp.,Parsippany,NJ,80
+Recreational Equipment Inc.,Kent,WA,100
+Reed Smith LLP,Pittsburgh,PA,75
+Regis Corp.,Edina,MN,70
+Replacements Ltd.,McLeansville,NC,100
+Reynolds American Inc.,Winston-Salem,NC,88
+Rite Aid Corp.,Camp Hill,PA,85
+Robert Half International Inc.,Menlo Park,CA,93
+Robert W. Baird & Co. Incorporated,Milwaukee,WI,90
+Robins Kaplan Miller & Ciresi LLP,Minneapolis,MN,100
+Rockwell Collins Inc.,Cedar Rapids,IA,75
+Ropes & Gray LLP,Boston,MA,100
+Royal Caribbean Cruises Ltd.,Miami,FL,70
+RRI Energy Inc.,Houston,TX,45
+Ryder System Inc.,Miami,FL,93
+Ryland Group Inc. The,Calabasas,CA,50
+S.C. Johnson & Son Inc.,Racine,WI,100
+Sabre Holdings Inc.,Southlake,TX,100
+Safeway Inc.,Pleasanton,CA,100
+Sanofi-Aventis U.S. LLC,Bridgewater,NJ,65
+SAP America Inc.,Newtown Square,PA,100
+Sara Lee Corp.,Downers Grove,IL,75
+Saul Ewing LLP,Philadelphia,PA,68
+Schering-Plough Corp.,Kenilworth,NJ,100
+Schiff Hardin LLP,Chicago,IL,80
+Scholastic Corp.,New York,NY,50
+Schulte Roth & Zabel LLP,New York,NY,80
+Seagate Technology LLC,Scotts Valley,CA,60
+Sears Holdings Corp.,Hoffman Estates,IL,100
+Sedgwick Detert Moran & Arnold LLP,San Francisco,CA,100
+Selective Insurance Group,Branchville,NJ,85
+Sempra Energy,San Diego,CA,85
+Severn Trent Services Inc.,Fort Washington DC,PA,80
+Seyfarth Shaw LLP,Chicago,IL,65
+Shearman & Sterling LLP,New York,NY,100
+Shell Oil Co.,Houston,TX,85
+Sheppard Mullin Mullin Richter & Hampton LLP,Los Angeles,CA,95
+Shook Hardy & Bacon LLP,Kansas City,MO,100
+Sidley Austin LLP,Chicago,IL,100
+SIRIUS XM Radio Inc.,New York,NY,80
+Skadden Arps Slate Meagher & Flom LLP,New York,NY,100
+SLM Corp. (Sallie Mae),Reston,VA,60
+Sodexo Inc.,Gaithersburg,MD,80
+Software House International,Somerset,NJ,40
+Sonnenschein Nath & Rosenthal LLP,Chicago,IL,100
+Southern California Edison Co.,Rosemead,CA,100
+Southern Co.,Atlanta,GA,48
+Southwest Airlines Co.,Dallas,TX,95
+Spectra Energy Corp.,Houston,TX,80
+Sprint Nextel Corp.,Overland Park,KS,100
+Squire Sanders & Dempsey LLP,Cleveland,OH,100
+SRA International Inc.,Fairfax,VA,75
+Staples Inc.,Framingham,MA,100
+Starbucks Corp.,Seattle,WA,100
+Starcom MediaVest Group,Chicago,IL,100
+Starwood Hotels & Resorts Worldwide,White Plains,NY,100
+State Farm Group,Bloomington,IL,30
+State Street Corp.,Boston,MA,100
+Steelcase Inc.,Grand Rapids,MI,60
+Steptoe & Johnson LLP,Washington DC,DC,85
+Stinson Morrison Hecker LLP,Kansas City,MO,100
+Stoel Rives LLP,Portland,OR,100
+Subaru of America Inc.,Cherry Hill,NJ,100
+Sullivan & Cromwell LLP,New York,NY,100
+Sun Life Financial Inc. (U.S.),Wellesley Hills,MA,100
+Sun Microsystems Inc.,Santa Clara,CA,100
+SunTrust Banks Inc.,Atlanta,GA,100
+Supervalu Inc.,Eden Prairie,MN,100
+Sutherland Asbill & Brennan LLP,Atlanta,GA,100
+Symantec Corp.,Mountain View,CA,100
+T-Mobile USA Inc.,Bellevue,WA,50
+Target Corp.,Minneapolis,MN,100
+TD Bank N.A.,Wilmington,DE,100
+Teachers Insurance and Annuity Association - College Retirement Equities Fund (TIAA-CREF),New York,NY,100
+Tech Data Corp.,Clearwater,FL,100
+Tenet Healthcare,Dallas,TX,40
+Texas Instruments Inc.,Dallas,TX,100
+Thompson Coburn LLP,St. Louis,MO,100
+Thomson Reuters,New York,NY,100
+Tiffany & Co.,New York,NY,73
+Time Warner Inc.,New York,NY,100
+TJX Companies Inc. The,Framingham,MA,100
+Toyota Financial Services Corp.,Torrance,CA,100
+Toyota Motor Sales USA Inc.,Torrance,CA,100
+Toys 'R' Us Inc.,Wayne,NJ,70
+Travel Impressions Ltd.,Farmingdale,NY,88
+Travelers Companies Inc. The,St. Paul,MN,50
+Travelport Ltd.,Parsippany,NJ,100
+Troutman Sanders LLP,Atlanta,GA,100
+U.S. Bancorp,Minneapolis,MN,100
+U.S. Foodservice Inc.,Rosemont,IL,58
+UAL Corp. (United Airlines),Chicago,IL,100
+UBS AG,Stamford,CT,100
+Unilever,Englewood Cliffs,NJ,100
+Union Pacific Corp.,Omaha,NE,43
+Unisys Corp.,Blue Bell,PA,70
+United Business Media LLC,Manhasset,NY,100
+United Parcel Service Inc. (UPS),Atlanta,GA,100
+United Technologies Corp.,Hartford,CT,100
+UnitedHealth Group Inc.,Minnetonka,MN,100
+Unum Group,Chattanooga,TN,88
+US Airways Group Inc.,Tempe,AZ,100
+Verizon Communications Inc.,New York,NY,70
+Vertis Inc.,Baltimore,MD,30
+Viacom Inc.,New York,NY,100
+Vinson & Elkins LLP,Houston,TX,100
+Virgin America,Burlingame,CA,80
+Visa,San Francisco,CA,100
+Vision Service Plan,Rancho Cordova,CA,65
+Visteon Corp.,Van Buren Township,MI,40
+Volkswagen of America Inc.,Herndon,VA,100
+Vorys Sater Seymour & Pease LLP,Columbus,OH,80
+Wachtell Lipton Rosen & Katz LLP,New York,NY,100
+Walgreen Co.,Deerfield,IL,100
+Wal-Mart Stores Inc.,Bentonville,AR,40
+Walt Disney Co.,Burbank,CA,100
+Waste Management Inc.,Houston,TX,80
+Weil Gotshal & Manges LLP,New York,NY,100
+WellPoint Inc.,Indianapolis,IN,95
+Wells Fargo & Co.,San Francisco,CA,100
+Weyerhaeuser Co.,Federal Way,WA,70
+Whirlpool Corp.,Benton Harbor,MI,100
+White & Case LLP,New York,NY,100
+Whole Foods Market Inc.,Austin,TX,85
+Wildman Harrold Allen & Dixon LLP,Chicago,IL,80
+Williams Companies Inc.,Tulsa,OK,80
+Willkie Farr & Gallagher LLP,New York,NY,100
+Wilmer Cutler Pickering Hale & Dorr LLP,Washington DC,DC,100
+Wilson Sonsini Goodrich & Rosati PC,Palo Alto,CA,100
+Winston & Strawn LLP,Chicago,IL,100
+Wisconsin Energy Corp.,Milwaukee,WI,55
+Womble Carlyle Sandridge & Rice PLLC,Winston-Salem,NC,65
+WPP Group USA,New York,NY,93
+Wyeth,Madison,NJ,80
+Wyndham Worldwide Corp.,Parsippany,NJ,95
+Wynn Resorts Ltd.,Las Vegas,NV,100
+Xcel Energy Inc.,Minneapolis,MN,95
+Xerox Corp.,Norwalk,CT,100
+Yahoo! Inc.,Sunnyvale,CA,100
+YRC Worldwide Inc.,Overland Park,KS,30
+Yum! Brands Inc.,Louisville,KY,65
+Zurich North America,Schaumburg,IL,65
