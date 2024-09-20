@@ -1,5 +1,5 @@
 # mds-project-durham
-The repository for the MDS Research Project, University of Durham for a student with anonymous marking number 
+The repository for the MDS Research Project, University of Durham for a student with anonymous marking number Z0194922.
 
 
 # Corporate Equality Index (CEI) & Anti-LGBTQ Legislation Analysis
