@@ -1,4 +1,4 @@
-# mds-project-durham
+# MDS Final Research Project - Unviersity of Durham
 The repository for the MDS Research Project, University of Durham for a student with anonymous marking number Z0194922.
 
 
