@@ -68,9 +68,6 @@ This repository contains the following datasets:
 To get started with this project, you'll need to install the following dependencies:
 
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/cei-legislation-analysis.git
-cd cei-legislation-analysis
 
 # Install the required libraries
 install.packages(c("ggplot2", "dplyr", "forecast", "usmap", "readr", "tidyr"))
