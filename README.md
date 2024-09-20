@@ -100,7 +100,7 @@ The results of this project include:
 - Regional comparisons of CEI ratings and legislative activity.
 - Forecasted CEI ratings for different regions up to 2030.
   
-### Disclaimer
+## Disclaimer
 
 This research project and its analysis are subject to the following limitations:
 
