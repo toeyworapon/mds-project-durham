@@ -2,7 +2,7 @@
 The repository for the MDS Research Project, University of Durham for a student with anonymous marking number Z0194922.
 
 
-# Over the Rainbow: Investigating Corporate Sponsorship “Authenticity” in United States Pride Events
+# Over the Rainbow: Investigating Corporate Sponsorship _“Authenticity”_ in United States Pride Events
 
 This project analyses Corporate Equality Index (CEI) ratings and anti-LGBTQ legislation across different U.S. regions. The analysis uses various statistical and time-series forecasting methods such as ARIMA and ETS models to understand trends, regional differences, and the relationship between CEI ratings and legislative activities.
 
