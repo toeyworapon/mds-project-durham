@@ -78,21 +78,20 @@ Make sure you have **R** and **RStudio** (or another R environment) installed on
 
 ## Usage
 
-Once the necessary libraries are installed, you can run the R scripts provided in the repository to conduct the analysis and generate the visualizations.
+Once the necessary libraries are installed, you can run the R scripts provided in the repository to conduct the analysis and generate the visualisations.
 
 ```bash
 # Example of loading a dataset
 aclu_data <- read.csv("ACLU_Anti_LGBTQ_Data_2024.csv")
 
 # Run an analysis (time series, correlation, or other analysis)
-source("analysis_script.R")
+source("Sponsorship Data_Analysis.R")
 ```
 
 ### Example Outputs
 
 - **Time-Series Forecasts**: Predicts future CEI ratings for different regions.
 - **Correlation Analysis**: Examines the relationship between anti-LGBTQ bills and corporate inclusivity.
-- **Bar Plots**: Shows the distribution of anti-LGBTQ bills by state and status.
 
 ## Results
 
@@ -100,7 +99,7 @@ The results of this project include:
 - A detailed analysis of trends in corporate inclusivity.
 - Regional comparisons of CEI ratings and legislative activity.
 - Forecasted CEI ratings for different regions up to 2030.
-- 
+  
 ### Disclaimer
 
 This research project and its analysis are subject to the following limitations:
